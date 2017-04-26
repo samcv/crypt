@@ -1,5 +1,6 @@
 {
     "name" : "Game::Crypt",
+    "license" : "Artistic-2.0",
     "version" : "0.2.2",
     "description" : "An adventure game.",
     "author" : "Carl Mäsak",
